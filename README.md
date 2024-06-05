@@ -1,6 +1,6 @@
-﻿|Nama |Tatia Deswita Anggraeni|
+﻿|Nama |Silvi Fara Dita|
 | :- | :- |
-|Nim |312210|
+|Nim |312210498|
 |Kelas |TI.22.A.5|
 |Tugas |lab11web|
 
